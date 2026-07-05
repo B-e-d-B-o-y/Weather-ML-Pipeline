@@ -49,7 +49,7 @@ lab3/
    git clone <url>
    cd lab3
 
-```
+    ```
 
 2. Проверьте настройки в .env:
 ```env
